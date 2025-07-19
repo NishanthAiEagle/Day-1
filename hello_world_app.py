@@ -3,35 +3,30 @@
 
 import streamlit as st
 
-# --------------------------
-# Day 1: Streamlit Challenge
-# --------------------------
+# ----------------------------
+# 🚀 Streamlit 50 Days - Day 1
+# ----------------------------
 
-st.set_page_config(page_title="Hello Streamlit", page_icon="👋")
+st.set_page_config(page_title="Hello World", page_icon="🚀")
 
-# Title Section
-st.title("👋 Hello, Streamlit World!")
-st.caption("Kickstarting the #50DaysOfStreamlit 🚀")
+st.title("🚀 Hello World - Streamlit Day 1")
+st.subheader("Welcome to the #Streamlit50Days Challenge!")
 
-# Introduction
+# Description with markdown
 st.markdown("""
-Welcome to **Day 1** of our coding adventure.
+### 👋 Let's Get Started!
 
-Let's explore the magic of Python and **Streamlit** by starting simple:
-
----
-
-### 🎯 Goals for Today
-- 🧱 Learn basic components
-- 🖋️ Practice markdown formatting
-- 🎉 Stay consistent and curious!
+This is **Day 1** of our Streamlit journey, and you're already making progress!  
+Let’s begin with a simple but powerful hello to the world of UI magic.
 
 ---
+
+### 🔧 What did we build?
+- ✅ **Crafted with Streamlit**
+- 📅 **Built to stay consistent**
+- 💡 **Designed to explore ideas**
 
 """)
 
-# Highlight message
-st.info("🌟 Pro Tip: Small progress every day adds up to big results!")
-
-# Footer motivation
-st.success("✅ Day 1 complete — onwards to greatness!")
+# Motivation message
+st.success("You're on fire! Keep the momentum going 🚀")
