@@ -6,11 +6,11 @@ import streamlit as st
 # Day 1: Streamlit Challenge
 # --------------------------
 
-st.set_page_config(page_title="Hello Streamlit", page_icon="👋")
+st.set_page_config(page_title="Hello World", page_icon="👋")
 
 # Title Section
-st.title("👋 Hello, Streamlit World!")
-st.caption("Kickstarting the #50DaysOfStreamlit 🚀")
+st.title("👋 Hello World!")
+st.caption("Kickstarting the #50Days Phython Chalange 🚀")
 
 # Introduction
 st.markdown("""
